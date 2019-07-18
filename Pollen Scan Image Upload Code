@@ -1,0 +1,15 @@
+<div class="gallery">
+  <a target="_blank" href="">
+    <img src="" alt="" width="600" height="400">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+
+
+// HOW TO
+1) copy and paste the code above into the HTML of the page that you want the image on
+2) Put the image link into the quotation marks after the href attribute and the img src attribute
+3) type the needed information into the add a description of the image here such as genus, species, geolocation, etc
+4) type a simple description of the image into the quotation marks after the alt term
+5) you should be good after this, repeat for every image
