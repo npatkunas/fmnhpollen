@@ -13,3 +13,15 @@
 3) type the needed information into the add a description of the image here such as genus, species, geolocation, etc
 4) type a simple description of the image into the quotation marks after the alt term
 5) you should be good after this, repeat for every image
+
+// how to get image links from google drive
+images can be put into the website by using this link
+1)https://drive.google.com/thumbnail?id=imageID
+
+2) get the image id from a shareable link from google drive, to do this you can left click on the image and presss 'get shareable link'
+it should be set to be seen by everyone
+https://drive.google.com/file/d/1lf8SMaHI1I_Ll5gbEan2hF_agbPDO6UF/view?usp=sharing
+1lf8SMaHI1I_Ll5gbEan2hF_agbPDO6UF is the image ID
+3) so paste that part into the image ID part on the first link
+https://drive.google.com/thumbnail?id=1lf8SMaHI1I_Ll5gbEan2hF_agbPDO6UF
+^ should look like this at the end
